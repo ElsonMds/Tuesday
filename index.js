@@ -5,4 +5,4 @@ const somar=(a,b)=>{
 }
 
 const res=somar(3,4)(6);
-console.log(res);
+console.log("Resultado: "+res);
